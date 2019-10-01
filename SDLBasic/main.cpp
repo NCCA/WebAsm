@@ -78,7 +78,7 @@ void mainloop(void *arg)
 
     SDL_RenderPresent(renderer);
     mode++;
-    SDL_Delay(200);
+    SDL_Delay(400);
 
 }
 
