@@ -1,0 +1,1 @@
+/Users/jmacey/emsdk/fastcomp/emscripten/em++  -s WASM=1 -s USE_SDL=2 -O3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/index.html.dir/main.cpp.o  -o index.html 

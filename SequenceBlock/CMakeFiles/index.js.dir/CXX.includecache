@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jmacey/teaching/Code/WebAsm/SequenceBlock/main.cpp
+SDL2/SDL.h
+-
+emscripten.h
+-
+cstdlib
+-
+iostream
+-
+

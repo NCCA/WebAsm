@@ -1,0 +1,3 @@
+/Users/jmacey/teaching/Code/WebAsm/SequenceBlock/CMakeFiles/rebuild_cache.dir
+/Users/jmacey/teaching/Code/WebAsm/SequenceBlock/CMakeFiles/edit_cache.dir
+/Users/jmacey/teaching/Code/WebAsm/SequenceBlock/CMakeFiles/index.js.dir
