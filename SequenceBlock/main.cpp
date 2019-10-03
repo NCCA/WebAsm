@@ -94,7 +94,7 @@ int main()
     SDL_Init(SDL_INIT_VIDEO);
     SDL_Window *window;
     SDL_Renderer *renderer;
-    SDL_CreateWindowAndRenderer(100, 120, 0, &window, &renderer);
+    SDL_CreateWindowAndRenderer(300, 120, 0, &window, &renderer);
     //std::cout<<"This is a sequence\n";
     context ctx;
     ctx.renderer = renderer;
